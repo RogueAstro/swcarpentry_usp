@@ -2,3 +2,5 @@
 *.dat
 *.out
 logs/
+.ipynb_checkpoints/
+*.csv
